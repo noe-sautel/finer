@@ -1,0 +1,8 @@
+# Type checker
+.mypy_cache
+
+# Test
+.pytest_cache
+
+# Caching
+*pycache*
