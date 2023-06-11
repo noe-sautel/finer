@@ -1,8 +1,6 @@
 # Todolist
 
 ## Todo
-
-- Install a precommit
 - Build test
 - Add type hints
 - Try airflow to orchestrate
@@ -16,6 +14,7 @@
 
 ## Done ✓
 
+- Install a precommit
 - Correct problems on scraper.py
 - Append data to a csv
 - Have a src/main.py
