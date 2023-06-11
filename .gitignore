@@ -6,3 +6,6 @@
 
 # Caching
 *pycache*
+
+# Data
+# data/
