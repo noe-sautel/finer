@@ -6,6 +6,7 @@
 
 # Caching
 *pycache*
+.DS_Store
 
 # Data
 # data/

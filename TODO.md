@@ -1,7 +1,6 @@
 # Todolist
 
 ## Todo
-- Build test
 - Add type hints
 - Try airflow to orchestrate
 - Create a loop to retrieve several ticker_symbol
@@ -11,6 +10,7 @@
 - Do a testload
 
 ## In Progress ···
+- Build test
 
 ## Done ✓
 
