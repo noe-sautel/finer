@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T15:44:55.836Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="oxxdv2eDWtTpXBSX8djj" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T15:45:31.892Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="68WhcXOojKyn0JEHOhly" version="21.6.6" type="github">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2893" dy="2656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="qRGsfc20uHWPQH7qOcsc-43" value="blackbox" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-370" y="-781.67" width="70" height="81.67" as="geometry" />
+        </mxCell>
+        <mxCell id="qRGsfc20uHWPQH7qOcsc-44" value="&lt;a href=&quot;https://chat.openai.com/share/f87e57c5-bdd0-4643-8247-2c12a64d08d5&quot;&gt;https://chat.openai.com/share/f87e57c5-bdd0-4643-8247-2c12a64d08d5&lt;/a&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="-510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
